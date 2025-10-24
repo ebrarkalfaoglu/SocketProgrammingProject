@@ -35,6 +35,7 @@ These libraries are included with Python, no extra installation needed:
 ### 2. Additional Libraries (Install via pip)  
 ```bash
 pip install psutil ntplib
+'''bash
 
 ## 🧩 Main Menu
 
