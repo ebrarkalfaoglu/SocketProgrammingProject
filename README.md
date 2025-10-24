@@ -51,6 +51,8 @@ When running the main file, the following interactive menu is displayed:
 <img width="1382" height="260" alt="image" src="https://github.com/user-attachments/assets/286e7c11-a938-4907-834a-6ac3133b3d60" />
 <img width="1220" height="237" alt="image" src="https://github.com/user-attachments/assets/a0380905-9c4b-49fc-b2ec-51750227e64c" />
 
+#### Error Management 
+<img width="1007" height="206" alt="image" src="https://github.com/user-attachments/assets/3468822b-6dcf-4ac8-9d81-8045da380898" />
 
 
 
