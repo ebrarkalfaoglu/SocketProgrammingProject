@@ -17,9 +17,24 @@ The system consists of several independent yet connected modules that demonstrat
 | **SNTP Time Synchronization** | Retrieves accurate time from an SNTP server and compares it with local system time. |
 | **Chat Module** | Enables basic real-time text messaging between server and client. |
 | **Socket Settings & Error Management** | Demonstrates timeout handling, buffer size settings, blocking/non-blocking modes, and exception management. |
-| **Data Integration** | Integrates SNTP time and Echo Test results with other modules (e.g., logging and error tracking). |
 
 ---
+## Requirements
+
+Python 3 is required.  
+
+### 1. Python Standard Libraries  
+These libraries are included with Python, no extra installation needed:  
+- `socket` → For network connections and server/client operations  
+- `argparse` → For command-line argument parsing  
+- `datetime` → For date and time operations  
+- `time` → For time functions (`sleep`, `ctime`)  
+- `json` → For JSON data handling  
+- `sys` → For system and command-line operations  
+
+### 2. Additional Libraries (Install via pip)  
+```bash
+pip install psutil ntplib
 
 ## 🧩 Main Menu
 
