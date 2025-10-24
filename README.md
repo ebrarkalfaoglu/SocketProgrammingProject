@@ -37,15 +37,6 @@ These libraries are included with Python, no extra installation needed:
 pip install psutil ntplib
 ```
 
-## 🧩 Main Menu
-
-When running the main file, the following interactive menu is displayed:
-#1 - System Info
-#2 - Echo Server
-#3 - SNTP Time
-#4 - Chat (Server/Client)
-#5 - Socket Settings & Error Management
-
 ### 🖼️ Screenshots
 
 #### Main Menu
