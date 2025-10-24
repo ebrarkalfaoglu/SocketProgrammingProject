@@ -36,11 +36,12 @@ When running the main file, the following interactive menu is displayed:
 ![Main Menu]### 🖼️ Screenshots
 
 #### Main Menu
-![Main Menu]<img width="1135" height="198" alt="image" src="https://github.com/user-attachments/assets/f8301e1c-1e1e-4ac9-b27e-5ec7b4ab27aa" />
+![]<img width="1135" height="198" alt="image" src="https://github.com/user-attachments/assets/f8301e1c-1e1e-4ac9-b27e-5ec7b4ab27aa" />
 
 
-#### Chat Example
-![Chat Example](images/chat_demo.png)
+#### Machine Information
+![Chat Example]<img width="953" height="285" alt="image" src="https://github.com/user-attachments/assets/decd7567-459f-4d1c-8bd4-0157bd56919b" />
+
 
 
 #### Chat Example
