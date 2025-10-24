@@ -53,6 +53,7 @@ When running the main file, the following interactive menu is displayed:
 
 #### Error Management 
 <img width="1007" height="206" alt="image" src="https://github.com/user-attachments/assets/3468822b-6dcf-4ac8-9d81-8045da380898" />
+<img width="1240" height="270" alt="image" src="https://github.com/user-attachments/assets/0fae0b2c-8d78-40bc-8465-a8379c712281" />
 
 
 
