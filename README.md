@@ -19,7 +19,7 @@ The system consists of several independent yet connected modules that demonstrat
 | **Socket Settings & Error Management** | Demonstrates timeout handling, buffer size settings, blocking/non-blocking modes, and exception management. |
 
 ---
-## Requirements
+## 🛠️ Requirements
 
 Python 3 is required.  
 
