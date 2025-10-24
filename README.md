@@ -33,9 +33,8 @@ These libraries are included with Python, no extra installation needed:
 - `sys` → For system and command-line operations  
 
 ### 2. Additional Libraries (Install via pip)  
-```
 pip install psutil ntplib
-'''
+
 
 ## 🧩 Main Menu
 
