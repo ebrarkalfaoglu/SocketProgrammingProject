@@ -30,4 +30,19 @@ When running the main file, the following interactive menu is displayed:
 4 - Chat (Server/Client)
 5 - Socket Settings & Error Management
 
+### 🖼️ Screenshots
+
+#### Main Menu
+![Main Menu]### 🖼️ Screenshots
+
+#### Main Menu
+![Main Menu]<img width="1135" height="198" alt="image" src="https://github.com/user-attachments/assets/f8301e1c-1e1e-4ac9-b27e-5ec7b4ab27aa" />
+
+
+#### Chat Example
+![Chat Example](images/chat_demo.png)
+
+
+#### Chat Example
+![Chat Example](images/chat_demo.png)
 
